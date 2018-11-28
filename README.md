@@ -1,4 +1,4 @@
-# FDS Final Project - Mango Plate Clone Application `Fast Plate`
+# FDS Final Project - Mango Plate Clone App `Fast Plate`
 
 ## Project Info
 
