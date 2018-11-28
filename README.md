@@ -1,44 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# FDS Final Project - Mango Plate Clone Application `Fast Plate`
 
-## Available Scripts
+## Project Info
 
-In the project directory, you can run:
+- 팀 구성 - **신창선, 안재현, 조민지**
+- 개발 일정 - **2018/12/03 ~ 2018/12/21**
+- 개발 도구
+  - Language - `JavaScript ES6+` / `HTML5` / `CSS3(+ Sass)`
+  - Library - `React v16.6.3` / `React Helmet v5.2.0` / `Axios v0.18.0` / `Node-sass v4.10.0` / `Classnames v2.2.6`
+  - Module Bundler & Build Tool - `Webpack v4.26.1`
+  - JS Compiler - `Babel v7.1.6`
+  - This Project created by `Create-React-App v2.1.1`
 
-### `npm start`
+## Project Plan
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [MVP & Backlog & Sprint History](https://docs.google.com/spreadsheets/d/1w_wG2s0EXF0zX9VTLTY7a3NlnoF_Z9-5zgXrgAqj0dI/edit#gid=1972710944)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Sprint Schedule & Component Structure](https://trello.com/b/xrlYoPOh/sprint-manager)
