@@ -4,7 +4,7 @@ class WelcomePage extends Component {
   render() {
     return (
       <div>
-        <h1>여기는 웰컴 페이지</h1>
+        <h1>여기는 웰컴 페이지 test1</h1>
       </div>
     );
   }
